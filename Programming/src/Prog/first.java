@@ -1,0 +1,20 @@
+package Prog;
+
+public class first {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		for(int i=1;i<=5;i++)
+		{
+			System.out.println("hi");
+		}
+		int j=10;
+		while(j<=20)
+		{
+			System.out.println("**");
+			j++;
+		}
+
+	}
+
+}
